@@ -1,0 +1,61 @@
+body{background-color: #4A5D9CFF; margin: 1%; }
+/*fondo general*/
+
+.logo img{ width: 15%; ; border-radius: 22px; border: 2px solid #000000FF ;}
+/*Logo de pagina*/
+
+#navegador ul{
+   list-style-type: none;
+   text-align: center;
+}
+#navegador li{
+   display: inline;
+   text-align: center;
+   margin: auto;
+}
+#navegador li a {
+   padding: 2px 7px 2px 7px;
+   color: #000;
+   background-color: #23A6DB;
+   border: 1px solid #537;
+   text-decoration: none;
+}
+#navegador li a:hover{
+   background-color: #3941C5;
+   color: #ffffff;
+}
+/*NAVEGACION*/
+
+h1{color:#E57256FF; font-size: 300%; text-align: center;}
+
+#he1{background-color: #5A3894FF; border-style:outset; 
+	border-radius: 25px; border-width: 5px; 
+	color: white; margin: 3%; margin-top: 10%; size: 50px;}
+/*RECUADRO HEADER*/
+
+#ar1{background-color: #6100FF70; 
+	border-style:outset;  color: white; border-width: 2px; margin: 3%; margin-top: 10%}
+/*primer articulo*/
+
+
+
+#sp1{font-size: 125%}
+/*titulo de articulo 1*/
+
+
+
+#ahtml{background-color: #ffff00;}
+#acss{background-color: #ffff00;}
+#ajavascript{background-color: #ffff00;}
+/*resalto de link*/
+
+.hetwo a{color: white; font-size: 18px; text-decoration: none;}
+.hetwo p{font-size: 20px}
+/*Header 2*/
+
+.images1 img{display: block; width: 90%; margin: 5%; border-radius: 10px; 
+   border: 1px solid; color: #5A31AAFF;}
+
+#infc{font-size: 20px; color: white;}
+
+footer img{width: 20%;} 
